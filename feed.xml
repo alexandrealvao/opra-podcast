@@ -5,11 +5,17 @@
     <link>https://dsl-produced-pdt-lee.trycloudflare.com</link>
     <description>NotebookLM Audio Overviews for OPRA exam prep</description>
     <language>en-us</language>
-    <itunes:author>Alex</itunes:author>
+    <itunes:author>Alexandre</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sun, 19 Jul 2026 03:46:58 +0000</lastBuildDate>
+    <itunes:image href="https://alexandrealvao.github.io/opra-podcast/artwork/cover.png" />
+    <image>
+      <url>https://alexandrealvao.github.io/opra-podcast/artwork/cover.png</url>
+      <title>OPRA Exam Prep</title>
+      <link>https://dsl-produced-pdt-lee.trycloudflare.com</link>
+    </image>
+    <lastBuildDate>Sun, 19 Jul 2026 04:27:02 +0000</lastBuildDate>
     <atom:link href="https://dsl-produced-pdt-lee.trycloudflare.com/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>S2E30 - Treating Snakebites and Paracetamol Overdoses</title>
