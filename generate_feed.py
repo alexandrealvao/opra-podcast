@@ -150,8 +150,9 @@ def discover_episodes(audio_dir):
 
 def build_item(ep, base_url, manifest):
     row = manifest.get(ep["relpath"])
-    title = (row["title"].strip() if row and row.get("title") else None) or ep["title"]
-    description = (row.get("description", "").strip() if row else "") or title
+    raw_title = (row["title"].strip() if row and row.get("title") else None) or ep["title"]
+    title = f"S{ep['season']}E{ep['episode']:02d} - {raw_title}"
+    description = (row.get("description", "").strip() if row else "") or raw_title
 
     size_bytes = os.path.getsize(ep["filepath"])
     duration = get_duration_seconds(ep["filepath"])
