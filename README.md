@@ -1,2 +1,2 @@
-# opra-podcasst
+# opra-podcast
 OPRA Podcast
