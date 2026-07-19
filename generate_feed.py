@@ -184,6 +184,7 @@ def main():
     parser.add_argument("--description", required=True)
     parser.add_argument("--link", default=None)
     parser.add_argument("--manifest", default=None, help="Optional CSV: relpath,title,description")
+    parser.add_argument("--image-url", default=None, help="Public URL to a square cover image, min 1400x1400 (JPEG/PNG, RGB)")
     parser.add_argument("--output", default="feed.xml")
     args = parser.parse_args()
 
@@ -200,6 +201,16 @@ def main():
     items = [build_item(ep, args.base_url, manifest) for ep in episodes]
     build_date = format_datetime(datetime.now(timezone.utc))
 
+    image_block = ""
+    if args.image_url:
+        image_block = f"""    <itunes:image href="{escape(args.image_url)}" />
+    <image>
+      <url>{escape(args.image_url)}</url>
+      <title>{escape(args.title)}</title>
+      <link>{escape(link)}</link>
+    </image>
+"""
+
     rss = f"""<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
@@ -211,7 +222,7 @@ def main():
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>{build_date}</lastBuildDate>
+{image_block}    <lastBuildDate>{build_date}</lastBuildDate>
     <atom:link href="{escape(link)}/feed.xml" rel="self" type="application/rss+xml" />
 {chr(10).join(items)}
   </channel>
