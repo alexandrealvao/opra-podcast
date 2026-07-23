@@ -12,7 +12,7 @@ your phone. Only `feed.xml` and the cover artwork live on GitHub Pages.
 ## Repo structure
 
 ```
-opra-podcastt/
+opra-podcast/
   episodes/                  ← NOT committed to git (see .gitignore)
     session-01/
       OPRA-01-Some_Topic.m4a
