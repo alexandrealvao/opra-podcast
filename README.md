@@ -115,8 +115,7 @@ python3 generate_feed.py \
   --title "OPRA Exam Prep" \
   --author "Alex" \
   --description "NotebookLM Audio Overviews for OPRA exam prep" \
-  --image-url "https://alexandrealvao.github.io/opra-podcasst/cover.jpg" \
-  --manifest manifest.csv \
+  --image-url "https://alexandrealvao.github.io/opra-podcast/artwork/cover.png" \
   --output feed.xml
 ```
 Watch the console output — it prints how many episodes/sessions it found,

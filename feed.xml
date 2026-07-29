@@ -9,9 +9,9 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <itunes:type>episodic</itunes:type>
-    <itunes:image href="https://alexandrealvao.github.io/opra-podcast/cover.jpg" />
+    <itunes:image href="https://alexandrealvao.github.io/opra-podcast/artwork/cover.png" />
     <image>
-      <url>https://alexandrealvao.github.io/opra-podcast/cover.jpg</url>
+      <url>https://alexandrealvao.github.io/opra-podcast/artwork/cover.png</url>
       <title>OPRA Exam Prep</title>
       <link>https://disks-sue-allocated-defense.trycloudflare.com</link>
     </image>
