@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>OPRA Exam Prep</title>
-    <link>https://accept-calendar-vista-hudson.trycloudflare.com</link>
+    <link>https://cube-urw-reduces-attending.trycloudflare.com</link>
     <description>NotebookLM Audio Overviews for OPRA exam prep</description>
     <language>en-us</language>
     <itunes:author>Alex</itunes:author>
@@ -13,15 +13,48 @@
     <image>
       <url>https://alexandrealvao.github.io/opra-podcast/artwork/cover.png</url>
       <title>OPRA Exam Prep</title>
-      <link>https://accept-calendar-vista-hudson.trycloudflare.com</link>
+      <link>https://cube-urw-reduces-attending.trycloudflare.com</link>
     </image>
-    <lastBuildDate>Tue, 01 Sep 2026 10:30:51 +0000</lastBuildDate>
-    <atom:link href="https://accept-calendar-vista-hudson.trycloudflare.com/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Sep 2026 10:31:48 +0000</lastBuildDate>
+    <atom:link href="https://cube-urw-reduces-attending.trycloudflare.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>S5E06 - When psychiatric drugs trigger physical emergencies</title>
+      <description>When psychiatric drugs trigger physical emergencies</description>
+      <enclosure url="https://cube-urw-reduces-attending.trycloudflare.com/session-05/OPRA-05-06-When_psychiatric_drugs_trigger_physical_emergencies.m4a" length="81641324" type="audio/x-m4a" />
+      <guid isPermaLink="false">https://cube-urw-reduces-attending.trycloudflare.com/session-05/OPRA-05-06-When_psychiatric_drugs_trigger_physical_emergencies.m4a</guid>
+      <pubDate>Tue, 30 Apr 2024 00:06:00 +0000</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:duration>00:42:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>S5E05 - Precision Dosing for Vancomycin and Aminoglycosides</title>
+      <description>Precision Dosing for Vancomycin and Aminoglycosides</description>
+      <enclosure url="https://cube-urw-reduces-attending.trycloudflare.com/session-05/OPRA-05-05-Precision_Dosing_for_Vancomycin_and_Aminoglycosides.m4a" length="97233851" type="audio/x-m4a" />
+      <guid isPermaLink="false">https://cube-urw-reduces-attending.trycloudflare.com/session-05/OPRA-05-05-Precision_Dosing_for_Vancomycin_and_Aminoglycosides.m4a</guid>
+      <pubDate>Tue, 30 Apr 2024 00:05:00 +0000</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:duration>00:50:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>S5E04 - How standard drugs become lethal toxins</title>
+      <description>How standard drugs become lethal toxins</description>
+      <enclosure url="https://cube-urw-reduces-attending.trycloudflare.com/session-05/OPRA-05-04-How_standard_drugs_become_lethal_toxins.m4a" length="94598865" type="audio/x-m4a" />
+      <guid isPermaLink="false">https://cube-urw-reduces-attending.trycloudflare.com/session-05/OPRA-05-04-How_standard_drugs_become_lethal_toxins.m4a</guid>
+      <pubDate>Tue, 30 Apr 2024 00:04:00 +0000</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:duration>00:48:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>S5E03 - The Razor Thin Margin of Specialty Drugs</title>
       <description>The Razor Thin Margin of Specialty Drugs</description>
-      <enclosure url="https://accept-calendar-vista-hudson.trycloudflare.com/session-05/OPRA-05-03-The_Razor_Thin_Margin_of_Specialty_Drugs.m4a" length="108852235" type="audio/x-m4a" />
-      <guid isPermaLink="false">https://accept-calendar-vista-hudson.trycloudflare.com/session-05/OPRA-05-03-The_Razor_Thin_Margin_of_Specialty_Drugs.m4a</guid>
+      <enclosure url="https://cube-urw-reduces-attending.trycloudflare.com/session-05/OPRA-05-03-The_Razor_Thin_Margin_of_Specialty_Drugs.m4a" length="108852235" type="audio/x-m4a" />
+      <guid isPermaLink="false">https://cube-urw-reduces-attending.trycloudflare.com/session-05/OPRA-05-03-The_Razor_Thin_Margin_of_Specialty_Drugs.m4a</guid>
       <pubDate>Tue, 30 Apr 2024 00:03:00 +0000</pubDate>
       <itunes:season>5</itunes:season>
       <itunes:episode>3</itunes:episode>
@@ -31,8 +64,8 @@
     <item>
       <title>S5E02 - The pharmacological minefield of kidney failure</title>
       <description>The pharmacological minefield of kidney failure</description>
-      <enclosure url="https://accept-calendar-vista-hudson.trycloudflare.com/session-05/OPRA-05-02-The_pharmacological_minefield_of_kidney_failure.m4a" length="80231829" type="audio/x-m4a" />
-      <guid isPermaLink="false">https://accept-calendar-vista-hudson.trycloudflare.com/session-05/OPRA-05-02-The_pharmacological_minefield_of_kidney_failure.m4a</guid>
+      <enclosure url="https://cube-urw-reduces-attending.trycloudflare.com/session-05/OPRA-05-02-The_pharmacological_minefield_of_kidney_failure.m4a" length="80231829" type="audio/x-m4a" />
+      <guid isPermaLink="false">https://cube-urw-reduces-attending.trycloudflare.com/session-05/OPRA-05-02-The_pharmacological_minefield_of_kidney_failure.m4a</guid>
       <pubDate>Tue, 30 Apr 2024 00:02:00 +0000</pubDate>
       <itunes:season>5</itunes:season>
       <itunes:episode>2</itunes:episode>
@@ -42,8 +75,8 @@
     <item>
       <title>S5E01 - Managing Resistant Hypertension and Advanced Anticoagulation</title>
       <description>Managing Resistant Hypertension and Advanced Anticoagulation</description>
-      <enclosure url="https://accept-calendar-vista-hudson.trycloudflare.com/session-05/OPRA-05-01-Managing_Resistant_Hypertension_and_Advanced_Anticoagulation.m4a" length="77641665" type="audio/x-m4a" />
-      <guid isPermaLink="false">https://accept-calendar-vista-hudson.trycloudflare.com/session-05/OPRA-05-01-Managing_Resistant_Hypertension_and_Advanced_Anticoagulation.m4a</guid>
+      <enclosure url="https://cube-urw-reduces-attending.trycloudflare.com/session-05/OPRA-05-01-Managing_Resistant_Hypertension_and_Advanced_Anticoagulation.m4a" length="77641665" type="audio/x-m4a" />
+      <guid isPermaLink="false">https://cube-urw-reduces-attending.trycloudflare.com/session-05/OPRA-05-01-Managing_Resistant_Hypertension_and_Advanced_Anticoagulation.m4a</guid>
       <pubDate>Tue, 30 Apr 2024 00:01:00 +0000</pubDate>
       <itunes:season>5</itunes:season>
       <itunes:episode>1</itunes:episode>
