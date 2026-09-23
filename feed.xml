@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>OPRA Exam Prep</title>
-    <link>https://airline-handbags-homes-replication.trycloudflare.com</link>
+    <link>https://acknowledged-type-middle-gospel.trycloudflare.com</link>
     <description>NotebookLM Audio Overviews for OPRA exam prep</description>
     <language>en-us</language>
     <itunes:author>Alex</itunes:author>
@@ -13,63 +13,74 @@
     <image>
       <url>https://alexandrealvao.github.io/opra-podcast/artwork/cover.png</url>
       <title>OPRA Exam Prep</title>
-      <link>https://airline-handbags-homes-replication.trycloudflare.com</link>
+      <link>https://acknowledged-type-middle-gospel.trycloudflare.com</link>
     </image>
-    <lastBuildDate>Mon, 21 Sep 2026 10:46:50 +0000</lastBuildDate>
-    <atom:link href="https://airline-handbags-homes-replication.trycloudflare.com/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Sep 2026 11:31:47 +0000</lastBuildDate>
+    <atom:link href="https://acknowledged-type-middle-gospel.trycloudflare.com/feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>S7E04 - Advanced Pharmacokinetics for the OPRA Exam</title>
-      <description>Advanced Pharmacokinetics for the OPRA Exam</description>
-      <enclosure url="https://airline-handbags-homes-replication.trycloudflare.com/session-07/OPRA-07-04-Advanced_Pharmacokinetics_for_the_OPRA_Exam.m4a" length="94409001" type="audio/x-m4a" />
-      <guid isPermaLink="false">https://airline-handbags-homes-replication.trycloudflare.com/session-07/OPRA-07-04-Advanced_Pharmacokinetics_for_the_OPRA_Exam.m4a</guid>
-      <pubDate>Sat, 29 Jun 2024 00:04:00 +0000</pubDate>
+      <title>S7E10 - Five Clinical TDM Cases for OPRA</title>
+      <description>Five Clinical TDM Cases for OPRA</description>
+      <enclosure url="https://acknowledged-type-middle-gospel.trycloudflare.com/session-07/OPRA-07-10-Five_Clinical_TDM_Cases_for_OPRA.m4a" length="100691674" type="audio/x-m4a" />
+      <guid isPermaLink="false">https://acknowledged-type-middle-gospel.trycloudflare.com/session-07/OPRA-07-10-Five_Clinical_TDM_Cases_for_OPRA.m4a</guid>
+      <pubDate>Sat, 29 Jun 2024 00:10:00 +0000</pubDate>
       <itunes:season>7</itunes:season>
-      <itunes:episode>4</itunes:episode>
-      <itunes:duration>00:48:53</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>S7E03 - Advanced TDM and AUC Clinical Reasoning</title>
-      <description>Advanced TDM and AUC Clinical Reasoning</description>
-      <enclosure url="https://airline-handbags-homes-replication.trycloudflare.com/session-07/OPRA-07-03-Advanced_TDM_and_AUC_Clinical_Reasoning.m4a" length="93721494" type="audio/x-m4a" />
-      <guid isPermaLink="false">https://airline-handbags-homes-replication.trycloudflare.com/session-07/OPRA-07-03-Advanced_TDM_and_AUC_Clinical_Reasoning.m4a</guid>
-      <pubDate>Sat, 29 Jun 2024 00:03:00 +0000</pubDate>
-      <itunes:season>7</itunes:season>
-      <itunes:episode>3</itunes:episode>
-      <itunes:duration>00:48:32</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>S7E02 - Hepatic Extraction Ratios and Saturation Kinetics</title>
-      <description>Hepatic Extraction Ratios and Saturation Kinetics</description>
-      <enclosure url="https://airline-handbags-homes-replication.trycloudflare.com/session-07/OPRA-07-02-Hepatic_Extraction_Ratios_and_Saturation_Kinetics.m4a" length="92076682" type="audio/x-m4a" />
-      <guid isPermaLink="false">https://airline-handbags-homes-replication.trycloudflare.com/session-07/OPRA-07-02-Hepatic_Extraction_Ratios_and_Saturation_Kinetics.m4a</guid>
-      <pubDate>Sat, 29 Jun 2024 00:02:00 +0000</pubDate>
-      <itunes:season>7</itunes:season>
-      <itunes:episode>2</itunes:episode>
-      <itunes:duration>00:47:40</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>S7E01 - Non-Linear Kinetics for the OPRA Exam</title>
-      <description>Non-Linear Kinetics for the OPRA Exam</description>
-      <enclosure url="https://airline-handbags-homes-replication.trycloudflare.com/session-07/OPRA-07-01-Non-Linear_Kinetics_for_the_OPRA_Exam.m4a" length="62129818" type="audio/x-m4a" />
-      <guid isPermaLink="false">https://airline-handbags-homes-replication.trycloudflare.com/session-07/OPRA-07-01-Non-Linear_Kinetics_for_the_OPRA_Exam.m4a</guid>
-      <pubDate>Sat, 29 Jun 2024 00:01:00 +0000</pubDate>
-      <itunes:season>7</itunes:season>
-      <itunes:episode>1</itunes:episode>
-      <itunes:duration>00:32:10</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>S6E10 - Drug Induced Hepatotoxicity and Nephrotoxicity</title>
-      <description>Drug Induced Hepatotoxicity and Nephrotoxicity</description>
-      <enclosure url="https://airline-handbags-homes-replication.trycloudflare.com/session-06/OPRA-06-10-Drug_Induced_Hepatotoxicity_and_Nephrotoxicity.m4a" length="121464529" type="audio/x-m4a" />
-      <guid isPermaLink="false">https://airline-handbags-homes-replication.trycloudflare.com/session-06/OPRA-06-10-Drug_Induced_Hepatotoxicity_and_Nephrotoxicity.m4a</guid>
-      <pubDate>Thu, 30 May 2024 00:10:00 +0000</pubDate>
-      <itunes:season>6</itunes:season>
       <itunes:episode>10</itunes:episode>
-      <itunes:duration>01:02:54</itunes:duration>
+      <itunes:duration>00:52:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>S7E09 - Why Neonates Are Not Miniature Adults</title>
+      <description>Why Neonates Are Not Miniature Adults</description>
+      <enclosure url="https://acknowledged-type-middle-gospel.trycloudflare.com/session-07/OPRA-07-09-Why_Neonates_Are_Not_Miniature_Adults.m4a" length="112618702" type="audio/x-m4a" />
+      <guid isPermaLink="false">https://acknowledged-type-middle-gospel.trycloudflare.com/session-07/OPRA-07-09-Why_Neonates_Are_Not_Miniature_Adults.m4a</guid>
+      <pubDate>Sat, 29 Jun 2024 00:09:00 +0000</pubDate>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>9</itunes:episode>
+      <itunes:duration>00:58:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>S7E08 - Steady State and Drug Accumulation Kinetics</title>
+      <description>Steady State and Drug Accumulation Kinetics</description>
+      <enclosure url="https://acknowledged-type-middle-gospel.trycloudflare.com/session-07/OPRA-07-08-Steady_State_and_Drug_Accumulation_Kinetics.m4a" length="107321720" type="audio/x-m4a" />
+      <guid isPermaLink="false">https://acknowledged-type-middle-gospel.trycloudflare.com/session-07/OPRA-07-08-Steady_State_and_Drug_Accumulation_Kinetics.m4a</guid>
+      <pubDate>Sat, 29 Jun 2024 00:08:00 +0000</pubDate>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:duration>00:55:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>S7E07 - Drug Dosing and Clearance During Dialysis</title>
+      <description>Drug Dosing and Clearance During Dialysis</description>
+      <enclosure url="https://acknowledged-type-middle-gospel.trycloudflare.com/session-07/OPRA-07-07-Drug_Dosing_and_Clearance_During_Dialysis.m4a" length="106986931" type="audio/x-m4a" />
+      <guid isPermaLink="false">https://acknowledged-type-middle-gospel.trycloudflare.com/session-07/OPRA-07-07-Drug_Dosing_and_Clearance_During_Dialysis.m4a</guid>
+      <pubDate>Sat, 29 Jun 2024 00:07:00 +0000</pubDate>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:duration>00:55:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>S7E06 - Two Compartment Kinetics and Therapeutic Drug Monitoring</title>
+      <description>Two Compartment Kinetics and Therapeutic Drug Monitoring</description>
+      <enclosure url="https://acknowledged-type-middle-gospel.trycloudflare.com/session-07/OPRA-07-06-Two_Compartment_Kinetics_and_Therapeutic_Drug_Monitoring.m4a" length="79671318" type="audio/x-m4a" />
+      <guid isPermaLink="false">https://acknowledged-type-middle-gospel.trycloudflare.com/session-07/OPRA-07-06-Two_Compartment_Kinetics_and_Therapeutic_Drug_Monitoring.m4a</guid>
+      <pubDate>Sat, 29 Jun 2024 00:06:00 +0000</pubDate>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:duration>00:41:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>S7E05 - Molecular Mechanics of Advanced Clinical Pharmacology</title>
+      <description>Molecular Mechanics of Advanced Clinical Pharmacology</description>
+      <enclosure url="https://acknowledged-type-middle-gospel.trycloudflare.com/session-07/OPRA-07-05-Molecular_Mechanics_of_Advanced_Clinical_Pharmacology.m4a" length="91348088" type="audio/x-m4a" />
+      <guid isPermaLink="false">https://acknowledged-type-middle-gospel.trycloudflare.com/session-07/OPRA-07-05-Molecular_Mechanics_of_Advanced_Clinical_Pharmacology.m4a</guid>
+      <pubDate>Sat, 29 Jun 2024 00:05:00 +0000</pubDate>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:duration>00:47:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
