@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>OPRA Exam Prep</title>
-    <link>https://acknowledged-type-middle-gospel.trycloudflare.com</link>
+    <link>https://span-phenomenon-pre-glasses.trycloudflare.com</link>
     <description>NotebookLM Audio Overviews for OPRA exam prep</description>
     <language>en-us</language>
     <itunes:author>Alex</itunes:author>
@@ -13,74 +13,52 @@
     <image>
       <url>https://alexandrealvao.github.io/opra-podcast/artwork/cover.png</url>
       <title>OPRA Exam Prep</title>
-      <link>https://acknowledged-type-middle-gospel.trycloudflare.com</link>
+      <link>https://span-phenomenon-pre-glasses.trycloudflare.com</link>
     </image>
-    <lastBuildDate>Wed, 23 Sep 2026 11:31:47 +0000</lastBuildDate>
-    <atom:link href="https://acknowledged-type-middle-gospel.trycloudflare.com/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Sep 2026 00:24:49 +0000</lastBuildDate>
+    <atom:link href="https://span-phenomenon-pre-glasses.trycloudflare.com/feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>S7E10 - Five Clinical TDM Cases for OPRA</title>
-      <description>Five Clinical TDM Cases for OPRA</description>
-      <enclosure url="https://acknowledged-type-middle-gospel.trycloudflare.com/session-07/OPRA-07-10-Five_Clinical_TDM_Cases_for_OPRA.m4a" length="100691674" type="audio/x-m4a" />
-      <guid isPermaLink="false">https://acknowledged-type-middle-gospel.trycloudflare.com/session-07/OPRA-07-10-Five_Clinical_TDM_Cases_for_OPRA.m4a</guid>
-      <pubDate>Sat, 29 Jun 2024 00:10:00 +0000</pubDate>
-      <itunes:season>7</itunes:season>
-      <itunes:episode>10</itunes:episode>
-      <itunes:duration>00:52:08</itunes:duration>
+      <title>S8E04 - Biopharmaceutical Science of Topical Drug Delivery</title>
+      <description>Biopharmaceutical Science of Topical Drug Delivery</description>
+      <enclosure url="https://span-phenomenon-pre-glasses.trycloudflare.com/session-08/OPRA-08-04-Biopharmaceutical_Science_of_Topical_Drug_Delivery.m4a" length="94530138" type="audio/x-m4a" />
+      <guid isPermaLink="false">https://span-phenomenon-pre-glasses.trycloudflare.com/session-08/OPRA-08-04-Biopharmaceutical_Science_of_Topical_Drug_Delivery.m4a</guid>
+      <pubDate>Mon, 29 Jul 2024 00:04:00 +0000</pubDate>
+      <itunes:season>8</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:duration>00:48:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>S7E09 - Why Neonates Are Not Miniature Adults</title>
-      <description>Why Neonates Are Not Miniature Adults</description>
-      <enclosure url="https://acknowledged-type-middle-gospel.trycloudflare.com/session-07/OPRA-07-09-Why_Neonates_Are_Not_Miniature_Adults.m4a" length="112618702" type="audio/x-m4a" />
-      <guid isPermaLink="false">https://acknowledged-type-middle-gospel.trycloudflare.com/session-07/OPRA-07-09-Why_Neonates_Are_Not_Miniature_Adults.m4a</guid>
-      <pubDate>Sat, 29 Jun 2024 00:09:00 +0000</pubDate>
-      <itunes:season>7</itunes:season>
-      <itunes:episode>9</itunes:episode>
-      <itunes:duration>00:58:19</itunes:duration>
+      <title>S8E03 - How Crystal Lattices and Genomics Dictate Dosing</title>
+      <description>How Crystal Lattices and Genomics Dictate Dosing</description>
+      <enclosure url="https://span-phenomenon-pre-glasses.trycloudflare.com/session-08/OPRA-08-03-How_Crystal_Lattices_and_Genomics_Dictate_Dosing.m4a" length="96523185" type="audio/x-m4a" />
+      <guid isPermaLink="false">https://span-phenomenon-pre-glasses.trycloudflare.com/session-08/OPRA-08-03-How_Crystal_Lattices_and_Genomics_Dictate_Dosing.m4a</guid>
+      <pubDate>Mon, 29 Jul 2024 00:03:00 +0000</pubDate>
+      <itunes:season>8</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:duration>00:49:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>S7E08 - Steady State and Drug Accumulation Kinetics</title>
-      <description>Steady State and Drug Accumulation Kinetics</description>
-      <enclosure url="https://acknowledged-type-middle-gospel.trycloudflare.com/session-07/OPRA-07-08-Steady_State_and_Drug_Accumulation_Kinetics.m4a" length="107321720" type="audio/x-m4a" />
-      <guid isPermaLink="false">https://acknowledged-type-middle-gospel.trycloudflare.com/session-07/OPRA-07-08-Steady_State_and_Drug_Accumulation_Kinetics.m4a</guid>
-      <pubDate>Sat, 29 Jun 2024 00:08:00 +0000</pubDate>
-      <itunes:season>7</itunes:season>
-      <itunes:episode>8</itunes:episode>
-      <itunes:duration>00:55:34</itunes:duration>
+      <title>S8E02 - Salt selection and pharmaceutical dissolution mechanics</title>
+      <description>Salt selection and pharmaceutical dissolution mechanics</description>
+      <enclosure url="https://span-phenomenon-pre-glasses.trycloudflare.com/session-08/OPRA-08-02-Salt_selection_and_pharmaceutical_dissolution_mechanics.m4a" length="112934068" type="audio/x-m4a" />
+      <guid isPermaLink="false">https://span-phenomenon-pre-glasses.trycloudflare.com/session-08/OPRA-08-02-Salt_selection_and_pharmaceutical_dissolution_mechanics.m4a</guid>
+      <pubDate>Mon, 29 Jul 2024 00:02:00 +0000</pubDate>
+      <itunes:season>8</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:duration>00:58:28</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>S7E07 - Drug Dosing and Clearance During Dialysis</title>
-      <description>Drug Dosing and Clearance During Dialysis</description>
-      <enclosure url="https://acknowledged-type-middle-gospel.trycloudflare.com/session-07/OPRA-07-07-Drug_Dosing_and_Clearance_During_Dialysis.m4a" length="106986931" type="audio/x-m4a" />
-      <guid isPermaLink="false">https://acknowledged-type-middle-gospel.trycloudflare.com/session-07/OPRA-07-07-Drug_Dosing_and_Clearance_During_Dialysis.m4a</guid>
-      <pubDate>Sat, 29 Jun 2024 00:07:00 +0000</pubDate>
-      <itunes:season>7</itunes:season>
-      <itunes:episode>7</itunes:episode>
-      <itunes:duration>00:55:24</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>S7E06 - Two Compartment Kinetics and Therapeutic Drug Monitoring</title>
-      <description>Two Compartment Kinetics and Therapeutic Drug Monitoring</description>
-      <enclosure url="https://acknowledged-type-middle-gospel.trycloudflare.com/session-07/OPRA-07-06-Two_Compartment_Kinetics_and_Therapeutic_Drug_Monitoring.m4a" length="79671318" type="audio/x-m4a" />
-      <guid isPermaLink="false">https://acknowledged-type-middle-gospel.trycloudflare.com/session-07/OPRA-07-06-Two_Compartment_Kinetics_and_Therapeutic_Drug_Monitoring.m4a</guid>
-      <pubDate>Sat, 29 Jun 2024 00:06:00 +0000</pubDate>
-      <itunes:season>7</itunes:season>
-      <itunes:episode>6</itunes:episode>
-      <itunes:duration>00:41:15</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>S7E05 - Molecular Mechanics of Advanced Clinical Pharmacology</title>
-      <description>Molecular Mechanics of Advanced Clinical Pharmacology</description>
-      <enclosure url="https://acknowledged-type-middle-gospel.trycloudflare.com/session-07/OPRA-07-05-Molecular_Mechanics_of_Advanced_Clinical_Pharmacology.m4a" length="91348088" type="audio/x-m4a" />
-      <guid isPermaLink="false">https://acknowledged-type-middle-gospel.trycloudflare.com/session-07/OPRA-07-05-Molecular_Mechanics_of_Advanced_Clinical_Pharmacology.m4a</guid>
-      <pubDate>Sat, 29 Jun 2024 00:05:00 +0000</pubDate>
-      <itunes:season>7</itunes:season>
-      <itunes:episode>5</itunes:episode>
-      <itunes:duration>00:47:18</itunes:duration>
+      <title>S8E01 - The Biological Gauntlet of Oral Drugs</title>
+      <description>The Biological Gauntlet of Oral Drugs</description>
+      <enclosure url="https://span-phenomenon-pre-glasses.trycloudflare.com/session-08/OPRA-08-01-The_Biological_Gauntlet_of_Oral_Drugs.m4a" length="83922844" type="audio/x-m4a" />
+      <guid isPermaLink="false">https://span-phenomenon-pre-glasses.trycloudflare.com/session-08/OPRA-08-01-The_Biological_Gauntlet_of_Oral_Drugs.m4a</guid>
+      <pubDate>Mon, 29 Jul 2024 00:01:00 +0000</pubDate>
+      <itunes:season>8</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:duration>00:43:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
