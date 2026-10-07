@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>OPRA Exam Prep</title>
-    <link>https://confidence-wildlife-best-periodic.trycloudflare.com</link>
+    <link>https://hire-statements-present-collectible.trycloudflare.com</link>
     <description>NotebookLM Audio Overviews for OPRA exam prep</description>
     <language>en-us</language>
     <itunes:author>Alex</itunes:author>
@@ -13,107 +13,74 @@
     <image>
       <url>https://alexandrealvao.github.io/opra-podcast/artwork/cover.png</url>
       <title>OPRA Exam Prep</title>
-      <link>https://confidence-wildlife-best-periodic.trycloudflare.com</link>
+      <link>https://hire-statements-present-collectible.trycloudflare.com</link>
     </image>
-    <lastBuildDate>Sat, 03 Oct 2026 00:06:04 +0000</lastBuildDate>
-    <atom:link href="https://confidence-wildlife-best-periodic.trycloudflare.com/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Oct 2026 10:10:15 +0000</lastBuildDate>
+    <atom:link href="https://hire-statements-present-collectible.trycloudflare.com/feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>S9E03 - Hematology Interpretation for the OPRA Exam</title>
-      <description>Hematology Interpretation for the OPRA Exam</description>
-      <enclosure url="https://confidence-wildlife-best-periodic.trycloudflare.com/session-09/OPRA-09-03-Hematology_Interpretation_for_the_OPRA_Exam.m4a" length="121511708" type="audio/x-m4a" />
-      <guid isPermaLink="false">https://confidence-wildlife-best-periodic.trycloudflare.com/session-09/OPRA-09-03-Hematology_Interpretation_for_the_OPRA_Exam.m4a</guid>
-      <pubDate>Wed, 28 Aug 2024 00:03:00 +0000</pubDate>
+      <title>S9E10 - Clinical Lab Pathophysiology for OPRA Candidates</title>
+      <description>Clinical Lab Pathophysiology for OPRA Candidates</description>
+      <enclosure url="https://hire-statements-present-collectible.trycloudflare.com/session-09/OPRA-09-10-Clinical_Lab_Pathophysiology_for_OPRA_Candidates.m4a" length="122309031" type="audio/x-m4a" />
+      <guid isPermaLink="false">https://hire-statements-present-collectible.trycloudflare.com/session-09/OPRA-09-10-Clinical_Lab_Pathophysiology_for_OPRA_Candidates.m4a</guid>
+      <pubDate>Wed, 28 Aug 2024 00:10:00 +0000</pubDate>
       <itunes:season>9</itunes:season>
-      <itunes:episode>3</itunes:episode>
-      <itunes:duration>01:02:55</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>S9E02 - Electrolyte Pathophysiology and Clinical Lab Reasoning</title>
-      <description>Electrolyte Pathophysiology and Clinical Lab Reasoning</description>
-      <enclosure url="https://confidence-wildlife-best-periodic.trycloudflare.com/session-09/OPRA-09-02-Electrolyte_Pathophysiology_and_Clinical_Lab_Reasoning.m4a" length="116920164" type="audio/x-m4a" />
-      <guid isPermaLink="false">https://confidence-wildlife-best-periodic.trycloudflare.com/session-09/OPRA-09-02-Electrolyte_Pathophysiology_and_Clinical_Lab_Reasoning.m4a</guid>
-      <pubDate>Wed, 28 Aug 2024 00:02:00 +0000</pubDate>
-      <itunes:season>9</itunes:season>
-      <itunes:episode>2</itunes:episode>
-      <itunes:duration>01:00:32</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>S9E01 - Clinical Pathophysiology of Advanced Laboratory Results</title>
-      <description>Clinical Pathophysiology of Advanced Laboratory Results</description>
-      <enclosure url="https://confidence-wildlife-best-periodic.trycloudflare.com/session-09/OPRA-09-01-Clinical_Pathophysiology_of_Advanced_Laboratory_Results.m4a" length="126552970" type="audio/x-m4a" />
-      <guid isPermaLink="false">https://confidence-wildlife-best-periodic.trycloudflare.com/session-09/OPRA-09-01-Clinical_Pathophysiology_of_Advanced_Laboratory_Results.m4a</guid>
-      <pubDate>Wed, 28 Aug 2024 00:01:00 +0000</pubDate>
-      <itunes:season>9</itunes:season>
-      <itunes:episode>1</itunes:episode>
-      <itunes:duration>01:05:32</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>S8E10 - Biopharmaceutical Science and Pharmaceutical Chemistry Review</title>
-      <description>Biopharmaceutical Science and Pharmaceutical Chemistry Review</description>
-      <enclosure url="https://confidence-wildlife-best-periodic.trycloudflare.com/session-08/OPRA-08-10-Biopharmaceutical_Science_and_Pharmaceutical_Chemistry_Review.m4a" length="59768996" type="audio/x-m4a" />
-      <guid isPermaLink="false">https://confidence-wildlife-best-periodic.trycloudflare.com/session-08/OPRA-08-10-Biopharmaceutical_Science_and_Pharmaceutical_Chemistry_Review.m4a</guid>
-      <pubDate>Mon, 29 Jul 2024 00:10:00 +0000</pubDate>
-      <itunes:season>8</itunes:season>
       <itunes:episode>10</itunes:episode>
-      <itunes:duration>00:30:57</itunes:duration>
+      <itunes:duration>01:03:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>S8E09 - Esterification for absorption and first-pass metabolism</title>
-      <description>Esterification for absorption and first-pass metabolism</description>
-      <enclosure url="https://confidence-wildlife-best-periodic.trycloudflare.com/session-08/OPRA-08-09-Esterification_for_absorption_and_first-pass_metabolism.m4a" length="141155440" type="audio/x-m4a" />
-      <guid isPermaLink="false">https://confidence-wildlife-best-periodic.trycloudflare.com/session-08/OPRA-08-09-Esterification_for_absorption_and_first-pass_metabolism.m4a</guid>
-      <pubDate>Mon, 29 Jul 2024 00:09:00 +0000</pubDate>
-      <itunes:season>8</itunes:season>
+      <title>S9E09 - Mechanisms of Drug Induced Hypersensitivity</title>
+      <description>Mechanisms of Drug Induced Hypersensitivity</description>
+      <enclosure url="https://hire-statements-present-collectible.trycloudflare.com/session-09/OPRA-09-09-Mechanisms_of_Drug_Induced_Hypersensitivity.m4a" length="133756343" type="audio/x-m4a" />
+      <guid isPermaLink="false">https://hire-statements-present-collectible.trycloudflare.com/session-09/OPRA-09-09-Mechanisms_of_Drug_Induced_Hypersensitivity.m4a</guid>
+      <pubDate>Wed, 28 Aug 2024 00:09:00 +0000</pubDate>
+      <itunes:season>9</itunes:season>
       <itunes:episode>9</itunes:episode>
-      <itunes:duration>01:13:05</itunes:duration>
+      <itunes:duration>01:09:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>S8E08 - Architecture of Beta-Blockers and ACE Inhibitors</title>
-      <description>Architecture of Beta-Blockers and ACE Inhibitors</description>
-      <enclosure url="https://confidence-wildlife-best-periodic.trycloudflare.com/session-08/OPRA-08-08-Architecture_of_Beta-Blockers_and_ACE_Inhibitors.m4a" length="104880334" type="audio/x-m4a" />
-      <guid isPermaLink="false">https://confidence-wildlife-best-periodic.trycloudflare.com/session-08/OPRA-08-08-Architecture_of_Beta-Blockers_and_ACE_Inhibitors.m4a</guid>
-      <pubDate>Mon, 29 Jul 2024 00:08:00 +0000</pubDate>
-      <itunes:season>8</itunes:season>
+      <title>S9E08 - Pathophysiology of Sepsis and Inflammatory Markers</title>
+      <description>Pathophysiology of Sepsis and Inflammatory Markers</description>
+      <enclosure url="https://hire-statements-present-collectible.trycloudflare.com/session-09/OPRA-09-08-Pathophysiology_of_Sepsis_and_Inflammatory_Markers.m4a" length="81707063" type="audio/x-m4a" />
+      <guid isPermaLink="false">https://hire-statements-present-collectible.trycloudflare.com/session-09/OPRA-09-08-Pathophysiology_of_Sepsis_and_Inflammatory_Markers.m4a</guid>
+      <pubDate>Wed, 28 Aug 2024 00:08:00 +0000</pubDate>
+      <itunes:season>9</itunes:season>
       <itunes:episode>8</itunes:episode>
-      <itunes:duration>00:54:18</itunes:duration>
+      <itunes:duration>00:42:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>S8E07 - Parenteral E-Value Math and Sterilization Science</title>
-      <description>Parenteral E-Value Math and Sterilization Science</description>
-      <enclosure url="https://confidence-wildlife-best-periodic.trycloudflare.com/session-08/OPRA-08-07-Parenteral_E-Value_Math_and_Sterilization_Science.m4a" length="70308308" type="audio/x-m4a" />
-      <guid isPermaLink="false">https://confidence-wildlife-best-periodic.trycloudflare.com/session-08/OPRA-08-07-Parenteral_E-Value_Math_and_Sterilization_Science.m4a</guid>
-      <pubDate>Mon, 29 Jul 2024 00:07:00 +0000</pubDate>
-      <itunes:season>8</itunes:season>
+      <title>S9E07 - Endocrine Pathophysiology and Diagnostic Interpretation</title>
+      <description>Endocrine Pathophysiology and Diagnostic Interpretation</description>
+      <enclosure url="https://hire-statements-present-collectible.trycloudflare.com/session-09/OPRA-09-07-Endocrine_Pathophysiology_and_Diagnostic_Interpretation.m4a" length="114407021" type="audio/x-m4a" />
+      <guid isPermaLink="false">https://hire-statements-present-collectible.trycloudflare.com/session-09/OPRA-09-07-Endocrine_Pathophysiology_and_Diagnostic_Interpretation.m4a</guid>
+      <pubDate>Wed, 28 Aug 2024 00:07:00 +0000</pubDate>
+      <itunes:season>9</itunes:season>
       <itunes:episode>7</itunes:episode>
-      <itunes:duration>00:36:24</itunes:duration>
+      <itunes:duration>00:59:14</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>S8E06 - The Molecular Battle for Drug Stability</title>
-      <description>The Molecular Battle for Drug Stability</description>
-      <enclosure url="https://confidence-wildlife-best-periodic.trycloudflare.com/session-08/OPRA-08-06-The_Molecular_Battle_for_Drug_Stability.m4a" length="92217872" type="audio/x-m4a" />
-      <guid isPermaLink="false">https://confidence-wildlife-best-periodic.trycloudflare.com/session-08/OPRA-08-06-The_Molecular_Battle_for_Drug_Stability.m4a</guid>
-      <pubDate>Mon, 29 Jul 2024 00:06:00 +0000</pubDate>
-      <itunes:season>8</itunes:season>
+      <title>S9E06 - Pathophysiology of Cardiac Ischemia and Biomarkers</title>
+      <description>Pathophysiology of Cardiac Ischemia and Biomarkers</description>
+      <enclosure url="https://hire-statements-present-collectible.trycloudflare.com/session-09/OPRA-09-06-Pathophysiology_of_Cardiac_Ischemia_and_Biomarkers.m4a" length="107334512" type="audio/x-m4a" />
+      <guid isPermaLink="false">https://hire-statements-present-collectible.trycloudflare.com/session-09/OPRA-09-06-Pathophysiology_of_Cardiac_Ischemia_and_Biomarkers.m4a</guid>
+      <pubDate>Wed, 28 Aug 2024 00:06:00 +0000</pubDate>
+      <itunes:season>9</itunes:season>
       <itunes:episode>6</itunes:episode>
-      <itunes:duration>00:47:45</itunes:duration>
+      <itunes:duration>00:55:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>S8E05 - The Microscopic Engineering Inside Your Pills</title>
-      <description>The Microscopic Engineering Inside Your Pills</description>
-      <enclosure url="https://confidence-wildlife-best-periodic.trycloudflare.com/session-08/OPRA-08-05-The_Microscopic_Engineering_Inside_Your_Pills.m4a" length="133080041" type="audio/x-m4a" />
-      <guid isPermaLink="false">https://confidence-wildlife-best-periodic.trycloudflare.com/session-08/OPRA-08-05-The_Microscopic_Engineering_Inside_Your_Pills.m4a</guid>
-      <pubDate>Mon, 29 Jul 2024 00:05:00 +0000</pubDate>
-      <itunes:season>8</itunes:season>
+      <title>S9E05 - Clinical Pathophysiology of Acute Kidney Injury</title>
+      <description>Clinical Pathophysiology of Acute Kidney Injury</description>
+      <enclosure url="https://hire-statements-present-collectible.trycloudflare.com/session-09/OPRA-09-05-Clinical_Pathophysiology_of_Acute_Kidney_Injury.m4a" length="109518826" type="audio/x-m4a" />
+      <guid isPermaLink="false">https://hire-statements-present-collectible.trycloudflare.com/session-09/OPRA-09-05-Clinical_Pathophysiology_of_Acute_Kidney_Injury.m4a</guid>
+      <pubDate>Wed, 28 Aug 2024 00:05:00 +0000</pubDate>
+      <itunes:season>9</itunes:season>
       <itunes:episode>5</itunes:episode>
-      <itunes:duration>01:08:54</itunes:duration>
+      <itunes:duration>00:56:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
