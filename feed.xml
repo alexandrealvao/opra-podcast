@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>OPRA Exam Prep</title>
-    <link>https://hire-statements-present-collectible.trycloudflare.com</link>
+    <link>https://aspects-apparent-education-charitable.trycloudflare.com</link>
     <description>NotebookLM Audio Overviews for OPRA exam prep</description>
     <language>en-us</language>
     <itunes:author>Alex</itunes:author>
@@ -13,26 +13,15 @@
     <image>
       <url>https://alexandrealvao.github.io/opra-podcast/artwork/cover.png</url>
       <title>OPRA Exam Prep</title>
-      <link>https://hire-statements-present-collectible.trycloudflare.com</link>
+      <link>https://aspects-apparent-education-charitable.trycloudflare.com</link>
     </image>
-    <lastBuildDate>Wed, 07 Oct 2026 10:10:15 +0000</lastBuildDate>
-    <atom:link href="https://hire-statements-present-collectible.trycloudflare.com/feed.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>S9E10 - Clinical Lab Pathophysiology for OPRA Candidates</title>
-      <description>Clinical Lab Pathophysiology for OPRA Candidates</description>
-      <enclosure url="https://hire-statements-present-collectible.trycloudflare.com/session-09/OPRA-09-10-Clinical_Lab_Pathophysiology_for_OPRA_Candidates.m4a" length="122309031" type="audio/x-m4a" />
-      <guid isPermaLink="false">https://hire-statements-present-collectible.trycloudflare.com/session-09/OPRA-09-10-Clinical_Lab_Pathophysiology_for_OPRA_Candidates.m4a</guid>
-      <pubDate>Wed, 28 Aug 2024 00:10:00 +0000</pubDate>
-      <itunes:season>9</itunes:season>
-      <itunes:episode>10</itunes:episode>
-      <itunes:duration>01:03:20</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
+    <lastBuildDate>Sun, 11 Oct 2026 05:02:01 +0000</lastBuildDate>
+    <atom:link href="https://aspects-apparent-education-charitable.trycloudflare.com/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>S9E09 - Mechanisms of Drug Induced Hypersensitivity</title>
       <description>Mechanisms of Drug Induced Hypersensitivity</description>
-      <enclosure url="https://hire-statements-present-collectible.trycloudflare.com/session-09/OPRA-09-09-Mechanisms_of_Drug_Induced_Hypersensitivity.m4a" length="133756343" type="audio/x-m4a" />
-      <guid isPermaLink="false">https://hire-statements-present-collectible.trycloudflare.com/session-09/OPRA-09-09-Mechanisms_of_Drug_Induced_Hypersensitivity.m4a</guid>
+      <enclosure url="https://aspects-apparent-education-charitable.trycloudflare.com/session-09/OPRA-09-09-Mechanisms_of_Drug_Induced_Hypersensitivity.m4a" length="133756343" type="audio/x-m4a" />
+      <guid isPermaLink="false">https://aspects-apparent-education-charitable.trycloudflare.com/session-09/OPRA-09-09-Mechanisms_of_Drug_Induced_Hypersensitivity.m4a</guid>
       <pubDate>Wed, 28 Aug 2024 00:09:00 +0000</pubDate>
       <itunes:season>9</itunes:season>
       <itunes:episode>9</itunes:episode>
@@ -42,8 +31,8 @@
     <item>
       <title>S9E08 - Pathophysiology of Sepsis and Inflammatory Markers</title>
       <description>Pathophysiology of Sepsis and Inflammatory Markers</description>
-      <enclosure url="https://hire-statements-present-collectible.trycloudflare.com/session-09/OPRA-09-08-Pathophysiology_of_Sepsis_and_Inflammatory_Markers.m4a" length="81707063" type="audio/x-m4a" />
-      <guid isPermaLink="false">https://hire-statements-present-collectible.trycloudflare.com/session-09/OPRA-09-08-Pathophysiology_of_Sepsis_and_Inflammatory_Markers.m4a</guid>
+      <enclosure url="https://aspects-apparent-education-charitable.trycloudflare.com/session-09/OPRA-09-08-Pathophysiology_of_Sepsis_and_Inflammatory_Markers.m4a" length="81707063" type="audio/x-m4a" />
+      <guid isPermaLink="false">https://aspects-apparent-education-charitable.trycloudflare.com/session-09/OPRA-09-08-Pathophysiology_of_Sepsis_and_Inflammatory_Markers.m4a</guid>
       <pubDate>Wed, 28 Aug 2024 00:08:00 +0000</pubDate>
       <itunes:season>9</itunes:season>
       <itunes:episode>8</itunes:episode>
@@ -53,34 +42,12 @@
     <item>
       <title>S9E07 - Endocrine Pathophysiology and Diagnostic Interpretation</title>
       <description>Endocrine Pathophysiology and Diagnostic Interpretation</description>
-      <enclosure url="https://hire-statements-present-collectible.trycloudflare.com/session-09/OPRA-09-07-Endocrine_Pathophysiology_and_Diagnostic_Interpretation.m4a" length="114407021" type="audio/x-m4a" />
-      <guid isPermaLink="false">https://hire-statements-present-collectible.trycloudflare.com/session-09/OPRA-09-07-Endocrine_Pathophysiology_and_Diagnostic_Interpretation.m4a</guid>
+      <enclosure url="https://aspects-apparent-education-charitable.trycloudflare.com/session-09/OPRA-09-07-Endocrine_Pathophysiology_and_Diagnostic_Interpretation.m4a" length="114407021" type="audio/x-m4a" />
+      <guid isPermaLink="false">https://aspects-apparent-education-charitable.trycloudflare.com/session-09/OPRA-09-07-Endocrine_Pathophysiology_and_Diagnostic_Interpretation.m4a</guid>
       <pubDate>Wed, 28 Aug 2024 00:07:00 +0000</pubDate>
       <itunes:season>9</itunes:season>
       <itunes:episode>7</itunes:episode>
       <itunes:duration>00:59:14</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>S9E06 - Pathophysiology of Cardiac Ischemia and Biomarkers</title>
-      <description>Pathophysiology of Cardiac Ischemia and Biomarkers</description>
-      <enclosure url="https://hire-statements-present-collectible.trycloudflare.com/session-09/OPRA-09-06-Pathophysiology_of_Cardiac_Ischemia_and_Biomarkers.m4a" length="107334512" type="audio/x-m4a" />
-      <guid isPermaLink="false">https://hire-statements-present-collectible.trycloudflare.com/session-09/OPRA-09-06-Pathophysiology_of_Cardiac_Ischemia_and_Biomarkers.m4a</guid>
-      <pubDate>Wed, 28 Aug 2024 00:06:00 +0000</pubDate>
-      <itunes:season>9</itunes:season>
-      <itunes:episode>6</itunes:episode>
-      <itunes:duration>00:55:35</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>S9E05 - Clinical Pathophysiology of Acute Kidney Injury</title>
-      <description>Clinical Pathophysiology of Acute Kidney Injury</description>
-      <enclosure url="https://hire-statements-present-collectible.trycloudflare.com/session-09/OPRA-09-05-Clinical_Pathophysiology_of_Acute_Kidney_Injury.m4a" length="109518826" type="audio/x-m4a" />
-      <guid isPermaLink="false">https://hire-statements-present-collectible.trycloudflare.com/session-09/OPRA-09-05-Clinical_Pathophysiology_of_Acute_Kidney_Injury.m4a</guid>
-      <pubDate>Wed, 28 Aug 2024 00:05:00 +0000</pubDate>
-      <itunes:season>9</itunes:season>
-      <itunes:episode>5</itunes:episode>
-      <itunes:duration>00:56:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
